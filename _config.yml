@@ -1,7 +1,7 @@
 # Site
 title:              Alexandre Augusto
-bio:                'A Pythonista with loads of cats.'
-description:        "Alexandre loves Python, open source softwares, games and cats. "
+bio:                'A Pythonista with loads of cats doing freelancing from time to time.'
+description:        "Alexandre loves Python, open source softwares, games and cats. Freelancer on spare times."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
@@ -38,13 +38,13 @@ sass:
   #ad-slot:
 #bing-verify:
 #email:
-twitter:            barbarubrosa
+twitter:            alebarbaruiva
 facebook:           alexandrebarbaruiva
 github-url:         alexandrebarbaruiva
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-#instagram:          username
+instagram:          alexandrebarbaruiva
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
