@@ -4,15 +4,10 @@ title:  "Github Metrics Dashboard"
 date:   2019-02-12
 excerpt: "Simple dashboard to check on repository's contribution status."
 project: true
-tag:
-- github 
-- django
-- python
-- dashboard
+tags: [github, django, python, dashboard]
 comments: true
----
-
-![Github Metrics mock](https://raw.githubusercontent.com/alexandrebarbaruiva/github-metrics/master/img/dashboard-mock.jpg)    
+feature: https://raw.githubusercontent.com/alexandrebarbaruiva/github-metrics/master/img/dashboard-mock.jpg
+---  
     
 <center><b>Github Metrics</b> is a simple, one dashboard per organization/repository data visualiz.</center>	
 
