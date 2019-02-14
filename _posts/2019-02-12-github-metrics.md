@@ -6,9 +6,8 @@ excerpt: "Simple dashboard to check on repository's contribution status."
 project: true
 tags: [github, django, python, dashboard]
 comments: true
-feature: https://raw.githubusercontent.com/alexandrebarbaruiva/github-metrics/master/img/dashboard-mock.jpg
 ---  
-    
+![dashboard-mock](https://raw.githubusercontent.com/alexandrebarbaruiva/github-metrics/master/img/dashboard-mock.jpg)
 <center><b>Github Metrics</b> is a simple, one dashboard per organization/repository data visualiz.</center>	
 
   I'm not a developer or designer. And I don't add footer to show who did this theme. If you like this theme or using it, please give a **star** for motivation, It makes me happy.	
@@ -18,7 +17,7 @@ feature: https://raw.githubusercontent.com/alexandrebarbaruiva/github-metrics/ma
 
  ## Installation	
  
-* Fork the [repo](https://github.com/TaylanTatli/Moon/fork)	
+* Fork the [repo](https://github.com/alexandrebarbaruiva/github-metrics/fork)	
 * Follow it's README.md
 
  That's all.	
